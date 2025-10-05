@@ -55,7 +55,6 @@ This project helped me practice:
 
 👉 [View the live demo](https://MylapalliYesebu.github.io/Tip-Calculator/)  
 
-*(Replace with your deployed GitHub Pages or Vercel link)*
 
 ---
 
