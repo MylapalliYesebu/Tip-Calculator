@@ -48,7 +48,6 @@ This project helped me practice:
 
 ![Tip Calculator Screenshot](image.png)  
 
-*(Replace `screenshot.png` with your actual screenshot file in the repo)*
 
 ---
 
